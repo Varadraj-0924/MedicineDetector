@@ -4,8 +4,7 @@ google-generativeai
 pandas
 Pillow
 python-dotenv
-tensorflow
-scikit-learn
+
 matplotlib
 seaborn
 pytesseract
